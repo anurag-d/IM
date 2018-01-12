@@ -1,4 +1,6 @@
-//Author          : @arboshiki
+//    Document   : dashboard
+//    Created on : Jan 7, 2018, 9:39:53 PM
+//    Author     : anurag
 
 $(document).ready(function(){
 

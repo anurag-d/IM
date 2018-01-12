@@ -114,6 +114,13 @@
                     </li>
                     
                     <li>
+                        <a href="#monitor">
+                            <i class="fa fa-binoculars menu-item-icon"></i>
+                            <span class="inner-text">Monitor</span>
+                        </a>
+                    </li>
+                    
+                    <li>
                         <a href="#">
                             <i class="fa fa-gears menu-item-icon"></i>
                             <span class="inner-text">Configuration</span>
@@ -156,7 +163,7 @@
                 
             </div>
         </div>
-        <!--Setting box-->
+        <!--Setting box
         <div class="setting-box hidden-print">
             <div class="btn-toggle">
                 <span class="glyphicon glyphicon-cog"></span>
@@ -258,7 +265,7 @@
                     <button class="btn btn-primary btn-block btn-pretty" data-action="clear-storage"><i class="fa fa-refresh"></i> Clear local storage</button>
                 </fieldset>
             </form>
-        </div>
+        </div>-->
 
         <!--Loading indicator for ajax page loading-->
         <div class="spinner spinner-horizontal hide">

@@ -10,11 +10,11 @@ $(document).ready(function(){
             title: 'Welcome to LobiAdmin.',
             msg: 'LobiAdmin is fully responsive ajax based web app with unique components and exclusive plugins'
         });
-    }, 1000);
+    }, 1000);*/
     
     $(document).on('submit', 'form', function(ev){
         ev.preventDefault();
-    });*/
+    });
 });
 
 /**
@@ -31,4 +31,4 @@ function randomIntegers(n, min, max) {
         arr.push(Math.round(min + Math.random() * (max - min)));
     }
     return arr;
-}
+};
