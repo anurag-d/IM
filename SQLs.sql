@@ -11,6 +11,8 @@ https://lobianijs.com/lobiadmin/version/1.0/ajax/#dashboard
 3. pmrep - export folders / 
 4.
 
+1. infacmd ping option / run cpu profile -- cards layout
+2. 
 
 
 CREATE TABLE `im_groups` (
