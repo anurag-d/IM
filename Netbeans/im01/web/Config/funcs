@@ -1,0 +1,10 @@
+infacmd 
+    ping
+    version
+    convertLogFile: Converts binary log files to text format, XML files, or readable text on the screen.
+    getLastError: Gets the most recent error messages for an application service running on a node.
+    getLog: Gets log events.
+    getSessionLog: Gets log events for the most recent run of a session.
+    getWorkflowLog: Gets log events for the most recent run of a workflow.
+    purgeLog: Purges log events.
+
